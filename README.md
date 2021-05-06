@@ -1,4 +1,5 @@
 # vue-options-vs-composition
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f73ffdf-1eb6-4f98-af9f-03787e7307cf/deploy-status)](https://app.netlify.com/sites/compassionate-heyrovsky-0d7fec/deploys)
 
 ## Project setup
 ```
